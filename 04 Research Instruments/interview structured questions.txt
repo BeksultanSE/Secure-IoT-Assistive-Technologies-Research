@@ -1,0 +1,27 @@
+Interview Questions:
+
+Have you previously worked on or researched IoT systems involving communication protocols such as MQTT, CoAP, Zigbee, or BLE? If yes, please mention which protocol(s).
+
+In your experience, what are the most common security or privacy weaknesses in IoT communication protocols (e.g., MQTT, CoAP, BLE, Zigbee)?
+
+How critical do you consider these vulnerabilities in the context of assistive devices for visually impaired users?
+
+Minor
+
+Moderate
+
+Serious
+
+Critical
+
+From your professional view, which transport layers (TCP, UDP, DTLS) are most reliable for secure IoT communication in low-power or wearable systems, and why?
+
+Which security measures do you find most effective for protecting IoT data streams?
+
+In your opinion, what is the main challenge in implementing these security measures in assistive or low-cost IoT devices?
+
+Do you believe that current IoT standards sufficiently address privacy-by-design principles for vulnerable users (e.g., visually impaired people)?
+
+How do you think security features (e.g., encryption, multi-factor authentication) impact the usability or accessibility of assistive devices?
+
+What would you recommend as key priorities for future IoT assistive device design—balancing security, privacy, and accessibility?

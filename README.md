@@ -6,7 +6,7 @@ B. Aitkazy,
 A. Bekbulat,
 A.P. Baktash, 
 A. Kurmanbekov,
-R. Turtulov
+R. Turtulov\
 **Course:** Research Methods and Tools  
 **Supervisor:** Altynbek Seitenov  
 **Submission:** November 2025
